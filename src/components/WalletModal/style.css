@@ -1,0 +1,27 @@
+.wallet-modal {}
+
+.modal-header-text {
+    font-size: 20px;
+    color: white;
+}
+
+.modal-option-card {
+    height: 72px;
+
+}
+
+.modal-option-card:hover {
+    border: 1px solid transparent;
+    height: 70px;
+}
+
+.modal-option-card:focus {
+    height: 70px;
+}
+
+.modal-option-card-warrap:hover,
+.modal-option-card-warrap:focus {
+    background: linear-gradient(73.6deg, #85FFC4 2.11%, #5CC6FF 42.39%, #BC85FF 85.72%);
+    padding: 1px;
+    border-radius: 8px;
+}

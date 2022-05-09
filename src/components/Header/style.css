@@ -1,0 +1,43 @@
+.header-nav {
+    display: flex;
+    margin-left: 120px;
+}
+
+.header-nav-link {
+    color: #A6A0BB;
+    margin-right: 7px;
+}
+
+.header-nav-link:hover {
+    color: white;
+}
+
+.header-nav .ACTIVE {
+    border-bottom: solid;
+    background-color: transparent;
+    color: white;
+    border-radius: 0;
+}
+
+
+.sqa-balance {
+    width: 100px;
+    background-color: #1C1924;
+    height: 40px;
+    border: none;
+    margin-right: 16px;
+    border-radius: 100px;
+}
+
+.sqa-balance .text {
+    background: linear-gradient(73.6deg, #85FFC4 2.11%, #5CC6FF 42.39%, #BC85FF 85.72%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.select-network {
+    background: linear-gradient(73.6deg, #85FFC4 2.11%, #5CC6FF 42.39%, #BC85FF 85.72%);
+    border: none;
+    height: 40px;
+    margin-right: 100px;
+}

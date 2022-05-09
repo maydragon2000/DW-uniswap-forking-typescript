@@ -1,0 +1,281 @@
+.remove-tab {
+
+    background-color: #131118;
+    border-radius: 8px;
+    box-shadow: none;
+    margin: 0px;
+}
+
+.remove-tab-warrap {
+    width: 464px;
+    height: 534px;
+    padding: 1px;
+    background: linear-gradient(73.6deg, #85FFC4 2.11%, #5CC6FF 42.39%, #BC85FF 85.72%);
+    border-radius: 8px;
+}
+
+.arrow-left-warrap {
+    display: none;
+}
+
+.settingTab-warrap {
+    display: none;
+}
+
+.remove-tab-content-inner {
+    border-top: 0px;
+    display: block;
+}
+
+.fromToken {
+    border-bottom: solid 1px grey;
+}
+
+.fromToken .open-currency-select-button {
+    margin-top: 16px;
+    background-color: transparent;
+    color: white;
+    box-shadow: none;
+}
+
+.fromToken .open-currency-select-button path {
+    stroke: white;
+}
+
+.toToken .open-currency-select-button {
+    margin-top: 16px;
+    background: linear-gradient(73.6deg, #85FFC4 2.11%, #5CC6FF 42.39%, #BC85FF 85.72%);
+    color: white;
+    box-shadow: none;
+}
+
+.toToken .open-currency-select-button path {
+    stroke: white;
+}
+
+.add-liquidity-footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.add-liquidity-footer button {}
+
+.Approve-pair {
+    width: 423px;
+    height: 48px;
+    background: linear-gradient(73.6deg, #85FFC4 2.11%, #5CC6FF 42.39%, #BC85FF 85.72%);
+    border-radius: 100px;
+    color: black;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.add-liquidity {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.add-liquidity p {
+    background: linear-gradient(73.6deg, #85FFC4 2.11%, #5CC6FF 42.39%, #BC85FF 85.72%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 700;
+    margin: 0px;
+}
+
+.add-liquidity-warrap {
+    background: linear-gradient(73.6deg, #85FFC4 2.11%, #5CC6FF 42.39%, #BC85FF 85.72%);
+    width: 423px;
+    height: 48px;
+    border-radius: 100px;
+    padding: 1px;
+}
+
+.add-liquidity {
+    width: 421px;
+    height: 46px;
+    border-radius: 100px;
+    background-color: #131118;
+    cursor: pointer;
+}
+
+.Approve-success {
+    width: 421px;
+    height: 46px;
+    border-radius: 100px;
+    background-color: black;
+    cursor: pointer;
+}
+
+.Approve-success-warrap {
+    background: linear-gradient(73.6deg, #85FFC4 2.11%, #5CC6FF 42.39%, #BC85FF 85.72%);
+    width: 423px;
+    height: 48px;
+    border-radius: 100px;
+    padding: 1px;
+    margin-bottom: 10px;
+}
+
+.Approve-success p {
+    background: linear-gradient(73.6deg, #85FFC4 2.11%, #5CC6FF 42.39%, #BC85FF 85.72%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 700;
+    margin: 0px;
+}
+
+.remove-header-top p {
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+}
+
+.remove-header {
+    display: flex;
+    justify-content: center;
+    height: 80px;
+    align-items: center;
+}
+
+.remove-header p {
+    font-size: 34px;
+    font-weight: 700;
+    color: white;
+    height: 54px;
+    margin: 0px;
+}
+
+.remove-content {
+    display: flex;
+    align-items: center;
+    width: 464px;
+    height: 510px;
+    padding-left: 20px;
+    padding-right: 20px;
+    flex-direction: column;
+}
+
+.content-header p {
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    margin: 0px;
+}
+
+.content-header {
+    height: 28px;
+    display: flex;
+    justify-content: center;
+    justify-content: center;
+}
+
+.remove-liquidity-warrap {
+    width: 586px;
+    height: 660px;
+    background: linear-gradient(73.6deg, #85FFC4 2.11%, #5CC6FF 42.39%, #BC85FF 85.72%);
+    padding: 1px;
+}
+
+.remove-liquidity {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 584px;
+    height: 658px;
+    background: #131118;
+}
+
+.description2 {
+    width: 420px
+}
+
+.description2 .eth {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.description2 .eth-left p {
+    color: white;
+}
+
+.eth-right {
+    display: flex;
+    align-items: center;
+}
+
+.eth-right p {
+    color: white;
+    margin-left: 10px;
+
+}
+
+.change-description {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.change-description p {
+    color: #A6A0BB;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.earned-table-header {
+    display: flex;
+}
+
+.earned-table-header p {
+    color: white;
+}
+
+.earned-table {
+    width: 416px;
+    height: 240px;
+    background-color: #1C1924;
+    border-radius: 16px;
+    padding: 10px;
+}
+
+.confirm {
+    color: black;
+    background: linear-gradient(73.6deg, #85FFC4 2.11%, #5CC6FF 42.39%, #BC85FF 85.72%);
+    border-radius: 100px;
+    cursor: pointer;
+}
+
+.confirm p {
+    font-size: 16px;
+    font-weight: 700;
+    margin: 0px;
+}
+
+.cancel-button-warrap {
+    width: 201px;
+    height: 48px;
+    background: linear-gradient(73.6deg, #85FFC4 2.11%, #5CC6FF 42.39%, #BC85FF 85.72%);
+    border-radius: 100px;
+    padding: 1px;
+}
+
+.cancel-button {
+    background-color: #131118;
+    border-radius: 100px;
+    cursor: pointer;
+}
+
+.cancel-button p {
+    background: linear-gradient(73.6deg, #85FFC4 2.11%, #5CC6FF 42.39%, #BC85FF 85.72%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
